@@ -5,11 +5,11 @@
 ### My Creative Works 
 
 [Project 1 Galaxy Cat](/sample_page)
-<img src="images/galaxycat.jpg?raw=true"/>
+<img src="images/galaxycat.png?raw=true"/>
 
 ---
 [Project 2 Ripped Effect](/pdf/sample_presentation.pdf)
-<img src="images/SZA.jpg?raw=true"/>
+<img src="images/SZA.png?raw=true"/>
 
 ---
 [Project 3 Double Exposure](http://example.com/)
