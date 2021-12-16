@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Double Exposure](http://example.com/)
-<img src="images/doubleexposure.webarchive?raw=true"/>
+<img src="images/exposure.png?raw=true"/>
 
 ---
 [Project 4 Earth day](/pdf/sample_presentation.pdf)
